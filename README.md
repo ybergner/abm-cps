@@ -8,3 +8,5 @@ Bergner, Y., Andrews, J. J., Zhu, M., & Gonzales, J. E. (2016). Agent-Based Mode
 
 The code is open for use and modification, but if you find it useful, please cite the
 manuscript.
+
+To use, just launch the .nlogo file. The kendallrank[2-8].txt and pairs[2-10].txt files are static support files so that the Netlogo code does not have to compute the Kendall rank coefficients every time or enumerate the possible pairwise combinations in a team of size N (i.e., N choose 2). 
